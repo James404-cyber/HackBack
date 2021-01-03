@@ -1,6 +1,6 @@
 # HackBack
 
-***I recommended the only ome option use thi Comand, 
+***I recommended the only one option use this Comand, 
 
 *You can crack Target account with passlist. 
 and it’s working 
