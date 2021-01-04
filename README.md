@@ -19,9 +19,12 @@ All Comand Here👇
 
 #pkg install git
 
+
 # pip2 install requests 
 
 #pip2 install mechanize 
+
+#git clone https://github.com/James404-cyber/HackBack.git
 
 #cd HsckBack
 
